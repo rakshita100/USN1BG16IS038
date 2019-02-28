@@ -1,0 +1,91 @@
+*
+{
+    margin:0;
+    padding:0;
+}
+header{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.226),rgba(0, 0, 0, 0.226)),url('dog7.jpg');
+    height:100vh;
+    background-size: cover;
+    background-position: center;
+}
+.form{
+    padding: 30px;
+    box-sizing: border-box;
+    margin: 10px;
+    border: 1px solid whitesmoke;
+    width: 450px;
+    position: absolute;
+    background-color: rgba(245, 222, 179, 0.788);
+    margin-left: 100px;
+    margin-top: 60px;
+    height: 500px;
+}
+h1{
+    color: black;
+    font-size: 25px;
+    font-family: verdana;
+    margin-left: 125px;
+}
+.data1{
+    padding: 28px;
+    margin-left: 18px;
+    font-size: 18px;
+    font-family: Verdana;
+    color: black;
+}
+.data2{
+    padding: 0px;
+    margin-left: 48px;
+    font-size: 18px;
+    font-family: Verdana;
+    color: black;
+}
+.data3{
+    padding: 28px;
+    margin-left: 68px;
+    font-size: 18px;
+    font-family: Verdana;
+    color: black;
+}
+.data4{
+    padding: 1px;
+    margin-left: 60px;
+    font-size: 18px;
+    font-family: Verdana;
+    color: black;
+}
+.data5{
+    padding: 25px;
+    margin-left: 60px;
+    font-size: 18px;
+    font-family: Verdana;
+    color: black;
+}
+.data6{
+    padding: 1px;
+    margin-left: 81px;
+    font-size: 18px;
+    font-family: Verdana;
+    color: black;
+}
+.check{
+    padding: 25px;
+    margin-left: 25px;
+    font-size: 15px;
+    font-family: verdana;
+    color: black;
+}
+.button{
+    padding: 5px 10px;
+    margin-left: 150px;
+    font-size: 15px;
+    font-family: verdana;
+    background-color:rgba(0, 0, 0, 0.671);
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+.button:hover{
+    background-color: black;
+}
