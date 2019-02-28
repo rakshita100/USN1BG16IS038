@@ -1,0 +1,57 @@
+*
+{
+    margin:0;
+    padding:0;
+}
+header{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.336),rgba(0, 0, 0, 0.336)),url('dog4.jpg');
+    height:100vh;
+    background-size: cover;
+    background-position: center;
+}
+.nav-menu{
+    float:right;
+    margin: 30px;
+    list-style: none;
+}
+.nav-menu li{
+    display:inline-block;
+}
+.nav-menu li a {
+    color:deepskyblue;
+    font-size: 22px;
+    padding:5px 20px;
+    font-family:Verdana;
+}
+.navbtn{
+    border:1px solid grey;
+    background-color: aliceblue;
+}
+.nav-menu li a:hover{
+    background-color: aliceblue;
+    border: 1px solid grey;
+}
+.tagline{
+    position: absolute;
+    margin-left: 280px;
+    margin-top: 50px;
+    width:800px;
+}
+h1{
+    color:white;
+    font-size: 35px;
+    font-family: verdana;
+    margin-top: 380px;
+    text-align: center;
+}
+.adopt{
+    margin-top:30px;
+    margin-left: 500px;
+}
+.btn{
+    color:yellow;
+    border: 2px solid white;
+    padding: 10px;
+    font-size: 25px;
+    text-decoration: none;
+}
